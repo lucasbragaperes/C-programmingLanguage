@@ -1,1 +1,1 @@
-<h1><br>Apostila de Linguagem C</br></h1>
+<h1><br>Curso de Linguagem C</br></h1>
