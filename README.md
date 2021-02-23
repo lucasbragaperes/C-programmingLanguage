@@ -1,4 +1,4 @@
-<h3>Programming Language <br>C</br></h3>
+<h3>Programming Language <b>C</b></h3>
 <br>
 <hr>
 <br>
